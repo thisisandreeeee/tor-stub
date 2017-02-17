@@ -1,0 +1,2 @@
+requesocks==0.10.8
+stem==1.4.0
